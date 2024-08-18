@@ -1,3 +1,4 @@
+console.log('- EJERCICIO A -')
 var cantidadGatos = 10;
 
 for (var i = 1; i <= cantidadGatos; i++) {

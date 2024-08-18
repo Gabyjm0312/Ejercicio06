@@ -1,3 +1,4 @@
+console.log('- EJERCICIO C -')
 var cantidadGatos = 10;
 var cantidadPatas = 4;
 
